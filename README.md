@@ -96,7 +96,7 @@ From enterprise-grade publishing platforms to innovative e-commerce solutions, m
   <p>
     <a href="https://sergiosan.com">🌐 Website</a> •
     <a href="https://www.linkedin.com/in/sergiosan">💼 LinkedIn</a> •
-    <a href="https://bsky.app/profile/s3rgiosan.bsky.social">🦋 Bluesky</a> •
+    <a href="https://bsky.app/profile/s3rgiosan.dev">🦋 Bluesky</a> •
     <a href="mailto:me@s3rgiosan.com">✉️ Email</a>
   </p>
 </div>
