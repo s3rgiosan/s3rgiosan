@@ -24,11 +24,17 @@ From enterprise-grade publishing platforms to innovative e-commerce solutions, m
 <table>
 
   <tr>
-    <td colspan="2">
+    <td>
       <a href="https://github.com/s3rgiosan/outstand-forms">
         <b>📋 Outstand Forms</b>
       </a><br/>
       Build flexible, modern forms using the WordPress block editor.
+    </td>
+    <td>
+      <a href="https://github.com/pixelalbatross/instagram-feed-block">
+        <b>🖼️ Instagram Feed Block</b>
+      </a><br/>
+      A powerful and flexible Instagram feed block for the WordPress block editor.
     </td>
   </tr>
     
