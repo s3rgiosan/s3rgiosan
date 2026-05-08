@@ -2,9 +2,11 @@
 
 ## 🧑‍💻 About Me
 
-Lead Engineer at [Fueled](https://fueled.com/) ([10up](https://10up.com/)) with a passion for crafting rich and high-performing web experiences. 
+I build things for the web, mostly with WordPress and JavaScript. Nearly two decades across products, agencies, and open-source.
 
-From enterprise-grade publishing platforms to innovative e-commerce solutions, my work focuses on elegant digital experiences that prioritize both performance and user satisfaction. I combine technical expertise in modern JavaScript frameworks and WordPress ecosystems with a commitment to web standards and accessibility.
+Today I lead engineering teams and help develop large-scale platforms. I design systems that are "boring" in the right places and flexible where it matters. Lately, that also means building AI integrations for WordPress and exploring what "AI-first" looks like in real products, not demos. Assistive tooling. Smarter workflows. Interfaces that help humans think.
+
+I care about craftsmanship. About code that lasts. About tools that help others excel.
 
 ## 🚀 Tech Stack
 
@@ -13,16 +15,94 @@ From enterprise-grade publishing platforms to innovative e-commerce solutions, m
   <img src="https://img.shields.io/badge/WooCommerce-7f54b3?style=flat-square&logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Gutenberg-000000?style=flat-square&logo=gutenberg&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-6B46C1?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 </div>
 
 ## 🏆 Featured Projects
 
-<table>
+### 🤖 AI & Developer Tooling
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/s3rgiosan/wp-db-mcp">
+        <b>🗄️ WP DB MCP</b>
+      </a><br/>
+      MCP server for read-only WordPress MySQL/MariaDB database exploration.
+    </td>
+    <td>
+      <a href="https://github.com/s3rgiosan/wp-agents">
+        <b>🧠 WP Agents</b>
+      </a><br/>
+      Claude Code agents for WordPress developers.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/s3rgiosan/wp-skills">
+        <b>🛠️ WP Skills</b>
+      </a><br/>
+      Claude Code skills for WordPress developers.
+    </td>
+    <td>
+      <a href="https://github.com/s3rgiosan/agent-smith">
+        <b>🕴️ Agent Smith</b>
+      </a><br/>
+      Tools, scripts, skills, and agents for agent-driven development.
+    </td>
+  </tr>
+</table>
+
+### 🧩 Apps & Tools
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/s3rgiosan/vscode-wp-theme-json-editor">
+        <b>🎨 theme.json Editor</b>
+      </a><br/>
+      VS Code extension with a form-driven visual editor for WordPress theme.json files.
+    </td>
+    <td>
+      <a href="https://github.com/s3rgiosan/localwp-elasticsearch">
+        <b>🔍 LocalWP Elasticsearch</b>
+      </a><br/>
+      LocalWP add-on that runs a per-site Elasticsearch container on demand.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/s3rgiosan/localwp-redis">
+        <b>⚡ LocalWP Redis</b>
+      </a><br/>
+      LocalWP add-on that runs a per-site Redis container on demand.
+    </td>
+    <td>
+      <a href="https://github.com/s3rgiosan/compasso">
+        <b>💸 Compasso</b>
+      </a><br/>
+      Finance tracker that parses bank PDF ledgers, categorizes transactions, and visualizes data in an interactive dashboard.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/s3rgiosan/concilia">
+        <b>📑 Concilia</b>
+      </a><br/>
+      macOS app that reconciles bank PDF statements against receipts and exports Excel reports.
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+### 🧱 Blocks
+
+<table>
   <tr>
     <td>
       <a href="https://github.com/s3rgiosan/outstand-forms">
@@ -31,19 +111,18 @@ From enterprise-grade publishing platforms to innovative e-commerce solutions, m
       Build flexible, modern forms using the WordPress block editor.
     </td>
     <td>
-      <a href="https://github.com/pixelalbatross/instagram-feed-block">
+      <a href="https://github.com/pixelalbatross/outstand-instagram-feed">
         <b>🖼️ Instagram Feed Block</b>
       </a><br/>
-      A powerful and flexible Instagram feed block for the WordPress block editor.
+      Display Instagram posts using a customizable Gutenberg block with list and grid layouts.
     </td>
   </tr>
-    
   <tr>
     <td>
-      <a href="https://github.com/pixelalbatross/slider-block">
-        <b>📸 Slider Block</b>
+      <a href="https://github.com/pixelalbatross/outstand-query-loop-dedup">
+        <b>🔁 Query Loop Dedup</b>
       </a><br/>
-      A responsive and accessible slider/carousel block for the WordPress block editor.
+      Prevents duplicate posts across multiple Query Loop blocks on the same page.
     </td>
     <td>
       <a href="https://github.com/pixelalbatross/accordion-block">
@@ -54,47 +133,23 @@ From enterprise-grade publishing platforms to innovative e-commerce solutions, m
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/pixelalbatross/slider-block">
+        <b>📸 Slider Block</b>
+      </a><br/>
+      Responsive, accessible slider/carousel block for the WordPress block editor.
+    </td>
+    <td>
       <a href="https://github.com/s3rgiosan/littlefoot">
         <b>📝 Littlefoot</b>
       </a><br/>
-      Elegant, interactive popups for the Footnotes block.<br/>
-    </td>
-    <td>
-      <a href="https://github.com/s3rgiosan/wp-media-chrome">
-        <b>🎬 WP Media Chrome</b>
-      </a><br/>
-      Enhance your video and audio blocks with custom web components from Media Chrome.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/s3rgiosan/wistia-embed-block">
-        <b>📹 Wistia Embed Block</b>
-      </a><br/>
-      A block for embedding Wistia videos in the WordPress block editor.<br/>
-    </td>
-    <td>
-      <a href="https://github.com/s3rgiosan/latest-comments-extended">
-        <b>💬 Latest Comments Extended</b>
-      </a><br/>
-      Extends the Latest Comments block with additional features.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/10up/wp-content-connect">
-        <b>🔄 WP Content Connect</b>
-      </a><br/>
-      WordPress library that enables direct relationships for posts to posts and posts to users.
-    </td>
-    <td>
-      <a href="https://github.com/s3rgiosan/elasticpress-content-connect">
-        <b>🔍 ElasticPress Content Connect</b>
-      </a><br/>
-      Integrates Content Connect with ElasticPress.
+      Elegant, interactive popups for the Footnotes block.
     </td>
   </tr>
 </table>
+
+## 🎲 Off the Clock
+
+Board games, puzzles, escape rooms, and LEGO.
 
 ## 📬 Let's Connect
 
