@@ -29,19 +29,15 @@ I care about craftsmanship. About code that lasts. About tools that help others 
 
 ### 🤖 AI & Developer Tooling
 
-<table>
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/wp-db-mcp">
         <b>🗄️ WP DB MCP</b>
       </a><br/>
       MCP server for read-only WordPress MySQL/MariaDB database exploration.
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/wp-agents">
         <b>🧠 WP Agents</b>
       </a><br/>
@@ -49,13 +45,13 @@ I care about craftsmanship. About code that lasts. About tools that help others 
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/wp-skills">
         <b>🛠️ WP Skills</b>
       </a><br/>
       Claude Code skills for WordPress developers.
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/agent-smith">
         <b>🕴️ Agent Smith</b>
       </a><br/>
@@ -66,19 +62,15 @@ I care about craftsmanship. About code that lasts. About tools that help others 
 
 ### 🧩 Apps & Tools
 
-<table>
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/vscode-wp-theme-json-editor">
         <b>🎨 theme.json Editor</b>
       </a><br/>
       VS Code extension with a form-driven visual editor for WordPress theme.json files.
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/localwp-elasticsearch">
         <b>🔍 LocalWP Elasticsearch</b>
       </a><br/>
@@ -86,13 +78,13 @@ I care about craftsmanship. About code that lasts. About tools that help others 
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/localwp-redis">
         <b>⚡ LocalWP Redis</b>
       </a><br/>
       LocalWP add-on that runs a per-site Redis container on demand.
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/compasso">
         <b>💸 Compasso</b>
       </a><br/>
@@ -100,31 +92,27 @@ I care about craftsmanship. About code that lasts. About tools that help others 
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/concilia">
         <b>📑 Concilia</b>
       </a><br/>
       macOS app that reconciles bank PDF statements against receipts and exports Excel reports.
     </td>
-    <td></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
 ### 🧱 Blocks
 
-<table>
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/outstand-forms">
         <b>📋 Outstand Forms</b>
       </a><br/>
       Build flexible, modern forms using the WordPress block editor.
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/pixelalbatross/outstand-instagram-feed">
         <b>🖼️ Instagram Feed Block</b>
       </a><br/>
@@ -132,13 +120,13 @@ I care about craftsmanship. About code that lasts. About tools that help others 
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/pixelalbatross/outstand-query-loop-dedup">
         <b>🔁 Query Loop Dedup</b>
       </a><br/>
       Prevents duplicate posts across multiple Query Loop blocks on the same page.
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/pixelalbatross/accordion-block">
         <b>🔽 Accordion Block</b>
       </a><br/>
@@ -146,13 +134,13 @@ I care about craftsmanship. About code that lasts. About tools that help others 
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/pixelalbatross/slider-block">
         <b>📸 Slider Block</b>
       </a><br/>
       Responsive, accessible slider/carousel block for the WordPress block editor.
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/s3rgiosan/littlefoot">
         <b>📝 Littlefoot</b>
       </a><br/>
