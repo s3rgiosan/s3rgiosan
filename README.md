@@ -2,6 +2,8 @@
 
 ## 🧑‍💻 About Me
 
+Lead Engineer at [Fueled](https://fueled.com/) ([10up](https://10up.com/)).
+
 I build things for the web, mostly with WordPress and JavaScript. Nearly two decades across products, agencies, and open-source.
 
 Today I lead engineering teams and help develop large-scale platforms. I design systems that are "boring" in the right places and flexible where it matters. Lately, that also means building AI integrations for WordPress and exploring what "AI-first" looks like in real products, not demos. Assistive tooling. Smarter workflows. Interfaces that help humans think.
