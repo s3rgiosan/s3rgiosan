@@ -30,6 +30,10 @@ I care about craftsmanship. About code that lasts. About tools that help others 
 ### 🤖 AI & Developer Tooling
 
 <table>
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
   <tr>
     <td>
       <a href="https://github.com/s3rgiosan/wp-db-mcp">
@@ -63,6 +67,10 @@ I care about craftsmanship. About code that lasts. About tools that help others 
 ### 🧩 Apps & Tools
 
 <table>
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
   <tr>
     <td>
       <a href="https://github.com/s3rgiosan/vscode-wp-theme-json-editor">
@@ -105,6 +113,10 @@ I care about craftsmanship. About code that lasts. About tools that help others 
 ### 🧱 Blocks
 
 <table>
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
   <tr>
     <td>
       <a href="https://github.com/s3rgiosan/outstand-forms">
