@@ -157,7 +157,7 @@ Board games, puzzles, escape rooms, and LEGO.
 
 <div align="center">
   <p>
-    <a href="https://sergiosan.com">🌐 Website</a> •
+    <a href="https://s3rgiosan.com">🌐 Website</a> •
     <a href="https://www.linkedin.com/in/sergiosan">💼 LinkedIn</a> •
     <a href="https://bsky.app/profile/s3rgiosan.dev">🦋 Bluesky</a> •
     <a href="mailto:me@s3rgiosan.com">✉️ Email</a>
